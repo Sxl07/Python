@@ -2,7 +2,7 @@ class nodoPila(object):
     info,sig=None, None
 
 class Pila(object):
-    def init(self):
+    def __init__(self):
         self.cima=None
         self.tamano=0
 
