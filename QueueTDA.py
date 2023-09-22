@@ -2,7 +2,7 @@ class nodoCola(object):
     info,sig=None,None
 
 class Cola(object):
-    def__init__(self):
+    def __init__(self):
         self.frente,self.final=None,None
         self.tamano=0
 
